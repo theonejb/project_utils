@@ -1,7 +1,7 @@
-project_utils
+project\_utils
 =============
- project_utils is a destined to be a number of things. Right now, it does only 1
-thing. But one day! <EVIL_LAUGH>
+ project\_utils is a destined to be a number of things. Right now, it does only 1
+thing. But one day!
 
  Right now, project\_utils is a simple python script that can be used to create new
 web based project source trees based on *very* simple templates. Well, it
