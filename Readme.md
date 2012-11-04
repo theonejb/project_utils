@@ -18,5 +18,9 @@ up.
 - A simple set of options when creating a project allows selection of availalble
 libraries (jquery, backbone.js) and frameworks (bootstrap, 960gs). The selected
 set is also included in the html files at places indicated by markers
-- Source files also processed as templates, so basic options like project name can
-be set automatically in all places in the source file
+- All text files are processed as templates, so basic options like project name can
+be set automatically in all source files
+- __putils__ can also copy the files for a specific library to the current directory.
+Useful to have all the libraries in one place and get them as required. No symlinks 
+as that would interfere with deployment
+
