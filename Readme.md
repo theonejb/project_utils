@@ -7,8 +7,8 @@ thing. But one day!
 web based project source trees based on *very* simple templates. Well, it
 _should_ be in a little time.
 
-__tl;dr;__: an in-development (ZERO LOC) python utility to create new projects based
-on __simple__ templates.
+__tl;dr;__: an in-development python utility to create new projects based on 
+__simple__ templates.
 
 Features:
 ---------
@@ -24,3 +24,6 @@ be set automatically in all source files
 Useful to have all the libraries in one place and get them as required. No symlinks 
 as that would interfere with deployment
 
+Working Features:
+-----------------
+- Library adding functionality is working. Try putils.py -h for details
