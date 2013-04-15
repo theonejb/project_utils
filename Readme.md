@@ -27,3 +27,14 @@ as that would interfere with deployment
 Working Features:
 -----------------
 - Library adding functionality is working. Try putils.py -h for details
+
+Future Features:
+----------------
+###Golang Project Creation:
+  - `pu tem golang` should create a new $GOPATH style dir structure in the
+current folder {src, pkg, bin}
+  - Template should have a shell script that activates the go-env like
+virtualenv for python. Script should add project dir to start of $GOPATH
+and bin to start of $PATH. Script should also provide ability to revert back
+these changes
+
